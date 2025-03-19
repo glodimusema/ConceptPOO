@@ -1,0 +1,7 @@
+c:\users\glodi\source\repos\ConceptPOO\ConceptPOO\bin\Debug\ConceptPOO.exe.config
+c:\users\glodi\source\repos\ConceptPOO\ConceptPOO\bin\Debug\ConceptPOO.exe
+c:\users\glodi\source\repos\ConceptPOO\ConceptPOO\bin\Debug\ConceptPOO.pdb
+c:\users\glodi\source\repos\ConceptPOO\ConceptPOO\obj\Debug\ConceptPOO.csprojResolveAssemblyReference.cache
+c:\users\glodi\source\repos\ConceptPOO\ConceptPOO\obj\Debug\ConceptPOO.csproj.CoreCompileInputs.cache
+c:\users\glodi\source\repos\ConceptPOO\ConceptPOO\obj\Debug\ConceptPOO.exe
+c:\users\glodi\source\repos\ConceptPOO\ConceptPOO\obj\Debug\ConceptPOO.pdb

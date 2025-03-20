@@ -19,12 +19,21 @@ namespace ConceptPOO
             ens1.Fonction = "Chef de section";
 
 
-            ens1.Afficher();
+            //ens1.Afficher();
 
-            clsSurcharge data = new clsSurcharge();
-            int x=0, y=0, z=0;
+            //clsSurcharge data = new clsSurcharge();
+            //int x=0, y=0, z=0;
 
-            data.Addition(x, y,z);
+            //data.Addition(x, y,z);
+
+
+
+            IAnimal chien1 = new clsChien();
+            IAnimal chat1 = new clsChat();
+
+            chien1.FaireDuBruit();
+            chat1.FaireDuBruit();
+
 
 
             Console.Read();
